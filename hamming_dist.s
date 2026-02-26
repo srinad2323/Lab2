@@ -1,6 +1,6 @@
 .section .data
-str1: .ascii ""
-str2: .ascii "test"
+str1: .ascii "this is a test"
+str2: .ascii "of the emergency broadcast"
 str1len = . - str1
 
 .section .text
